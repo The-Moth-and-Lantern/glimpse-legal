@@ -24,6 +24,10 @@ address, your player name and your decks.
 Your decks are private unless you make one public. Anyone with the link to a public deck can see
 it, along with your player name.
 
+## When you search
+Card searches are sent to the database to find matches. Glimpse uses what you type to answer that
+search and doesn't save it to you or your account.
+
 ## What stays on your phone
 Your game history, stats, the players you save and any photos you add stay on your phone. They
 aren't sent to Glimpse. Android may include them in your own phone backup, apart from photos,
