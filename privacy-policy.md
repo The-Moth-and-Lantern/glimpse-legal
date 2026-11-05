@@ -47,7 +47,7 @@ All data sent between the app and these services is encrypted in transit (HTTPS)
 
 ## Keeping and deleting your data
 Your account data is kept until you delete it. To delete it, open **Settings → Account → Delete my
-account**, or follow the steps at [this page](https://context-and-layout.github.io/glimpse-legal/delete-account). This removes your sign-in, email address,
+account**, or follow the steps at [this page](https://the-moth-and-lantern.github.io/glimpse-legal/delete-account). This removes your sign-in, email address,
 player name and decks from the live database straight away. Copies in the host's routine logs and
 backups go as those expire.
 
