@@ -6,7 +6,7 @@ an Android phone running Android 8.0 or later, and an invite.
 ## Install
 1. **Ask to join.** Send your Google Play email address to the Moth & Lantern developer by direct
    message on Discord. Please don't post it in a channel.
-2. **Open the test link.** Once you've been added, you'll get a link. Open it on your phone, signed
+2. **Open the test link.** Once you've been added, you'll get a link or you can find one posting in Discord #Welcome. Open it on your phone, signed
    in to Google with that same email address, and accept the invite.
 3. **Install.** Follow the link to Glimpse's Play page and tap **Install**.
 
